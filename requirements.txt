@@ -1,4 +1,4 @@
 streamlit
 torch
-torchcrf
+torchcrf==1.1.0
 numpy
